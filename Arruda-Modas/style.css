@@ -1,0 +1,45 @@
+body{
+    background-color: #180A00;
+    color: white;
+}    
+
+h1 { 
+    top: 0%;
+}  
+
+h2, h1, h3{
+    font-family: Alike;
+    font-size: 35px;
+    color: white;
+    text-shadow: 2px 2px 2px gray;
+    text-align: center;
+}
+
+h4, h5{
+    font-family: Alike;
+    font-size: 30px;
+    color: white;
+    text-shadow: 2px 2px 2px gray;
+    text-align: left;
+}
+.cabecalho-lista-item{
+    display: inline-block;
+    margin: 0 30px;
+    width: 10%;
+    top: -10px;    
+    text-align: center;
+    font-size: 30px;
+    margin: 30px;
+}
+
+P {
+    font-size: 25px;
+    text-align: left;
+}
+
+img {
+    float: right;
+    border-radius: 20px;
+    width: 25%;
+    margin: 30px;
+}
